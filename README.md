@@ -441,3 +441,6 @@ enabled a host of really amazing things only one of which is
 versioning. It's real power came in enabling collaboration by exposing
 the multiple worlds, their states and their transitions so that we
 could work more directly with locality.
+
+Gavin Mendel-Gleason
+CTO TerminusDB
